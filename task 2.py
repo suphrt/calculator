@@ -16,7 +16,7 @@ def cringe(s, f, l):
         pr = "".join(j)
         result = calc(pr, s)
         if result == f:
-            return pr.replace(" ", "")
+            return pr
     return None
 
 if __name__ == "__main__":
