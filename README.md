@@ -1,1 +1,1 @@
-# how to rename repositori?
+# how to rename repository?
