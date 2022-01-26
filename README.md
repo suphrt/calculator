@@ -1,1 +1,1 @@
-# uchebnick
+# how to rename repositori?
